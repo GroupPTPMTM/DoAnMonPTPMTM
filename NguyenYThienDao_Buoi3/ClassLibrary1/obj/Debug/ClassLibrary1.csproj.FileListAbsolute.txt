@@ -1,4 +1,0 @@
-E:\LuuDuLieuSV\2001215691_NguyenYThienDao\NguyenYThienDao_Buoi3\ClassLibrary1\bin\Debug\ClassLibrary1.dll
-E:\LuuDuLieuSV\2001215691_NguyenYThienDao\NguyenYThienDao_Buoi3\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
-E:\LuuDuLieuSV\2001215691_NguyenYThienDao\NguyenYThienDao_Buoi3\ClassLibrary1\obj\Debug\ClassLibrary1.dll
-E:\LuuDuLieuSV\2001215691_NguyenYThienDao\NguyenYThienDao_Buoi3\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
