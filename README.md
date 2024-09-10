@@ -1,8 +1,7 @@
-# **🛍️ Xây dựng hệ thống bán hàng thời trang**
+# **🛍️ Xây dựng hệ thống quản lý bán hàng thương mại điện tử**
 
 **Mô tả:**  
-Dự án xây dựng hệ thống quản lý bán hàng thời trang, áp dụng AI để gợi ý sản phẩm khi người dùng đặt hàng và phân cụm khách hàng để tặng khuyến mãi. Hệ thống bao gồm 2 nền tảng chính là WebForm (ReactJS & NodeJS) và WinForm (C#).
-
+Dự án này được thực hiện trên 2 nền tảng chính: Website và WinForm. Các công nghệ sử dụng chính trong dự án gồm có .NET, NodeJS, NexJS,... Hướng ứng dụng AI gồm có: ChatBox, Phân loại tệp khách hàng hổ trợ seo, thống kê(Giới tính, độ tuổi, xu hướng mua hàng, thời gian mua hàng nhiều nhất trong tuần,...), Tìm kiếm thông minh.
 ## **👨‍👩‍👧‍👦 Thành viên nhóm**
 
 | Thành viên         | Vai trò          |
@@ -12,12 +11,12 @@ Dự án xây dựng hệ thống quản lý bán hàng thời trang, áp dụng
 
 ## **🛠️ Công nghệ sử dụng**
 
-- **🗄️ Database:** Neo4j
+- **🗄️ Database:** MongoDB
 - **💻 WebForm:**
-  - **Frontend:** ReactJS
+  - **Frontend:** NextJS 14
   - **Backend:** NodeJS
 - **🖥️ WinForm:** C#
-- **🤖 AI:** K-Means clustering
+- **🤖 AI:** K-Means clustering, Rule-based approach
 
 ## **📋 Mô tả nền tảng**
 
@@ -77,4 +76,3 @@ Dự án xây dựng hệ thống quản lý bán hàng thời trang, áp dụng
 
 ### **Cài đặt WebForm**
 ```bash
-
