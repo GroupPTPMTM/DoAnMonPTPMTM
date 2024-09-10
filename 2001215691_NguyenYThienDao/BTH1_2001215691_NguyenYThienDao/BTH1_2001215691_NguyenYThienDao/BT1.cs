@@ -1,0 +1,29 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace BTH1_2001215691_NguyenYThienDao
+{
+    public partial class BT1 : Form
+    {
+        XuLy xuly;
+        public BT1()
+        {
+            int n = 10;
+            InitializeComponent();
+            xuly = new XuLy();
+            xuly.matran(this,n);
+        }
+
+        private void BT1_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
+}

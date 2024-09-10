@@ -1,0 +1,4 @@
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\textbox\bin\Debug\textbox.dll
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\textbox\bin\Debug\textbox.pdb
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\textbox\obj\Debug\textbox.dll
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\textbox\obj\Debug\textbox.pdb

@@ -1,0 +1,9 @@
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\UpperTextBox\bin\Debug\UpperTextBox.dll
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\UpperTextBox\bin\Debug\UpperTextBox.pdb
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\UpperTextBox\obj\Debug\UpperTextBox.dll
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\UpperTextBox\obj\Debug\UpperTextBox.pdb
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\UpperTextBox\bin\Debug\textbox.dll
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\UpperTextBox\bin\Debug\textbox.pdb
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\UpperTextBox\obj\Debug\UpperTextBox.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\UpperTextBox\obj\Debug\UpperTextBox.MailTextBox.resources
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\UpperTextBox\obj\Debug\UpperTextBox.csproj.GenerateResource.Cache

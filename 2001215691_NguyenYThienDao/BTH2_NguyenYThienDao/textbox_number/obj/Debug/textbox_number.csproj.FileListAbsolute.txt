@@ -1,0 +1,16 @@
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\textbox_number\bin\Debug\textbox_number.dll
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\textbox_number\bin\Debug\textbox_number.pdb
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\textbox_number\bin\Debug\textbox_number.pri
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\textbox_number\obj\Debug\textbox_number.dll
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\textbox_number\obj\Debug\textbox_number.pdb
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\textbox_number\obj\Debug\priconfig.xml
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\textbox_number\obj\Debug\priconfig.xml.intermediate
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\textbox_number\obj\Debug\layout.resfiles
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\textbox_number\obj\Debug\layout.resfiles.intermediate
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\textbox_number\obj\Debug\resources.resfiles
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\textbox_number\obj\Debug\resources.resfiles.intermediate
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\textbox_number\obj\Debug\pri.resfiles
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\textbox_number\obj\Debug\pri.resfiles.intermediate
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\textbox_number\obj\Debug\qualifiers.txt
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\textbox_number\obj\Debug\qualifiers.txt.intermediate
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\textbox_number\obj\Debug\MultipleQualifiersPerDimensionFound.txt

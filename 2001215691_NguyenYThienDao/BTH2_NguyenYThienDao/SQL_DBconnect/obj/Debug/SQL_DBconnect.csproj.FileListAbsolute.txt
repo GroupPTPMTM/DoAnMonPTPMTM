@@ -1,0 +1,4 @@
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\SQL_DBconnect\bin\Debug\SQL_DBconnect.dll
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\SQL_DBconnect\bin\Debug\SQL_DBconnect.pdb
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\SQL_DBconnect\obj\Debug\SQL_DBconnect.dll
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\BTH2_NguyenYThienDao\SQL_DBconnect\obj\Debug\SQL_DBconnect.pdb

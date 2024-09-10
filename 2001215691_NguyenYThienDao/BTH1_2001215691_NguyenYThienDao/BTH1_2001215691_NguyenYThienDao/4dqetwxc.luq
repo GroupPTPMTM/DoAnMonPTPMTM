@@ -1,0 +1,68 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Data;
+using System.Drawing;
+namespace BTH1_2001215691_NguyenYThienDao
+{
+    class XuLy
+    {
+        public void ds_checkbox()
+        {
+            string[] foods = { "Grain", "Bread", "Beans", "Eggs", "Chicken", "Milk", "Fruit", "Vegetables", "Pasta", "Rice", "Fish", "Beef" };
+            int topPosition = 10;
+            foreach (string food in foods)
+            {
+                CheckBox checkBox = new CheckBox();
+                checkBox.Left = 10;
+                checkBox.Top = topPosition;
+                topPosition += 30;
+                checkBox.Text = food;
+                Controls.Add(checkBox);
+            }
+        }
+
+        public void button()
+        {
+            Button b = new Button();
+            b.Name = "b1";
+            b.Size = new Size(30, 30);
+            b.Left = 100;
+            b.Top = 20;
+            b.Text = "Button";
+            this.Controls.Add(b);
+            b.Click += new System.EventHandler(bt_click);
+            ds_checkbox();
+        }
+
+        public void bt_click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void InitializeComponent()
+        {
+            this.SuspendLayout();
+            // 
+            // XuLy
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.ClientSize = new System.Drawing.Size(570, 353);
+            this.Name = "XuLy";
+            this.Load += new System.EventHandler(this.XuLy_Load);
+            this.ResumeLayout(false);
+
+        }
+
+        private void XuLy_Load(object sender, EventArgs e)
+        {
+
+        }
+
+   
+
+    }
+}
