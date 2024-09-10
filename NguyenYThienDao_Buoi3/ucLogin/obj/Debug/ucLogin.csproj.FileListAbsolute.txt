@@ -1,0 +1,10 @@
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\NguyenYThienDao_Buoi3\ucLogin\bin\Debug\ucLogin.dll
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\NguyenYThienDao_Buoi3\ucLogin\bin\Debug\ucLogin.pdb
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\NguyenYThienDao_Buoi3\ucLogin\obj\Debug\ucLogin.UserControl1.resources
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\NguyenYThienDao_Buoi3\ucLogin\obj\Debug\ucLogin.csproj.GenerateResource.Cache
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\NguyenYThienDao_Buoi3\ucLogin\obj\Debug\ucLogin.dll
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\NguyenYThienDao_Buoi3\ucLogin\obj\Debug\ucLogin.pdb
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\NguyenYThienDao_Buoi3\ucLogin\bin\Debug\ClassLibrary1.dll
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\NguyenYThienDao_Buoi3\ucLogin\bin\Debug\ClassLibrary1.pdb
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\NguyenYThienDao_Buoi3\ucLogin\obj\Debug\ucLogin.UCSinhVien.resources
+E:\LuuDuLieuSV\2001215691_NguyenYThienDao\NguyenYThienDao_Buoi3\ucLogin\obj\Debug\ucLogin.csprojResolveAssemblyReference.cache
